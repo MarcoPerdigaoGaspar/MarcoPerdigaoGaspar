@@ -20,7 +20,7 @@
 | [![avatar](https://avatars.githubusercontent.com/u/349285205?s=24&v=4)](https://github.com/MarcoGasparCF) [**MarcoGasparCF**](https://github.com/MarcoGasparCF) | Conta associada | 1 |
 
 ---
-
+<!--
 ## 📦 Repositórios
 
 ### Conta `MarcoGasparCF`
@@ -34,14 +34,15 @@
 Sem repositórios públicos de momento.
 
 ---
-
+-->
 ## 📊 Estatísticas e contribuições
 
 <div align="center">
-
+<!--
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcoPerdigaoGaspar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPerdigaoGaspar&layout=compact&theme=github_dark&hide_border=true)
-
+-->
+ 
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=MarcoPerdigaoGaspar&theme=github-dark&hide_border=true)
 
 ![Mapa de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=MarcoPerdigaoGaspar&theme=github-compact&hide_border=true&area=true)
