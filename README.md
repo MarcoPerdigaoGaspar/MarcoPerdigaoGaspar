@@ -6,8 +6,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarcoPerdigaoGaspar-181717?style=for-the-badge&logo=github)](https://github.com/MarcoPerdigaoGaspar)
 [![Conta associada](https://img.shields.io/badge/Conta%20associada-MarcoGasparCF-181717?style=for-the-badge&logo=github)](https://github.com/MarcoGasparCF)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-
+<!--[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+-->
 </div>
 
 ---
