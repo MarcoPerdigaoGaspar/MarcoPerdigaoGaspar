@@ -34,14 +34,14 @@
 Sem repositórios públicos de momento.
 
 ---
--->
+
 ## 📊 Estatísticas e contribuições
 
 <div align="center">
-<!--
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcoPerdigaoGaspar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPerdigaoGaspar&layout=compact&theme=github_dark&hide_border=true)
--->
+
  
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=MarcoPerdigaoGaspar&theme=github-dark&hide_border=true)
 
@@ -50,13 +50,18 @@ Sem repositórios públicos de momento.
 </div>
 
 ---
-
+-->
 ## 🛠️ Stack
-
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+ ---
  
+## 🎓 Formações
+ 
+![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
