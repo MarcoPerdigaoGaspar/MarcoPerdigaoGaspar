@@ -2,7 +2,7 @@
 
 # Marco António Perdigão Gaspar
 
-**Desenvolvedor** · Automação · PowerShell · Windows
+**Desenvolvedor** · P21 · CGA · FS · CF
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarcoPerdigaoGaspar-181717?style=for-the-badge&logo=github)](https://github.com/MarcoPerdigaoGaspar)
 [![Conta associada](https://img.shields.io/badge/Conta%20associada-MarcoGasparCF-181717?style=for-the-badge&logo=github)](https://github.com/MarcoGasparCF)
